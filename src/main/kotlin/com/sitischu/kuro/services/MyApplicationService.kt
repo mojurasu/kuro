@@ -1,6 +1,6 @@
-package com.github.sitischu.kuro.services
+package com.sitischu.kuro.services
 
-import com.github.sitischu.kuro.MyBundle
+import com.sitischu.kuro.MyBundle
 
 class MyApplicationService {
 
