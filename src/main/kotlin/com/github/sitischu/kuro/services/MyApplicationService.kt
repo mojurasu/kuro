@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sitischu.kuro.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sitischu.kuro.MyBundle
 
 class MyApplicationService {
 
