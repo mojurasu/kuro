@@ -1,4 +1,4 @@
-package com.github.sitischu.kuro
+package com.sitischu.kuro
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

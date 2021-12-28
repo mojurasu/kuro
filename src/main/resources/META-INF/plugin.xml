@@ -7,12 +7,12 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.sitischu.kuro.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.sitischu.kuro.services.MyProjectService"/>
+        <applicationService serviceImplementation="com.sitischu.kuro.services.MyApplicationService"/>
+        <projectService serviceImplementation="com.sitischu.kuro.services.MyProjectService"/>
     </extensions>
 
     <applicationListeners>
-        <listener class="com.github.sitischu.kuro.listeners.MyProjectManagerListener"
+        <listener class="com.sitischu.kuro.listeners.MyProjectManagerListener"
                   topic="com.intellij.openapi.project.ProjectManagerListener"/>
     </applicationListeners>
 </idea-plugin>

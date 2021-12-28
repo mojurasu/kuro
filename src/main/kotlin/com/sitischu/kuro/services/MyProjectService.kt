@@ -1,7 +1,7 @@
-package com.github.sitischu.kuro.services
+package com.sitischu.kuro.services
 
 import com.intellij.openapi.project.Project
-import com.github.sitischu.kuro.MyBundle
+import com.sitischu.kuro.MyBundle
 
 class MyProjectService(project: Project) {
 
