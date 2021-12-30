@@ -2,6 +2,14 @@
 
 # kuro Changelog
 
-## [Unreleased]
+
+
+## [0.1.1]
+### Changed
+- Fix plugin name
+
+## [0.1.0]
 ### Added
 - Editor and UI Theme
+
+## [Unreleased]
