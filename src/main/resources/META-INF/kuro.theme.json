@@ -74,13 +74,13 @@
       "foreground": "#c9c9c9"
     },
     "FileColor": {
-      "Yellow": "#F0C67450",
-      "Green": "#8C944050",
-      "Blue": "#5F819D50",
-      "Violet": "#85678F50",
-      "Orange": "#DE935F2050",
-      "Rose": "#A5424250",
-      "Gray": "#70788050"
+      "Yellow": "#F0C67430",
+      "Green": "#8C944030",
+      "Blue": "#5F819D30",
+      "Violet": "#85678F30",
+      "Orange": "#DE935F2030",
+      "Rose": "#A5424230",
+      "Gray": "#70788030"
     },
     "Link": {
       "activeForeground": "#e52a57",
