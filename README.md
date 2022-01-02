@@ -1,5 +1,5 @@
 # kuro
-![Build](src/main/resources/META-INF/pluginIcon.svg)
+![icon](src/main/resources/META-INF/pluginIcon.svg | =100x100)
 
 ![Build](https://github.com/mojurasu/kuro/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/com.sitischu.kuro.svg)](https://plugins.jetbrains.com/plugin/com.sitischu.kuro)
@@ -13,6 +13,11 @@ Simple opiniated dark theme with a custom editor scheme.
 
 There might be some unthemed parts that default to Darcula feel free to report them as issues on the [GitHub repository](https://github.com/mojurasu/kuro)
 <!-- Plugin description end -->
+
+## Screenshots
+![Screenshot_1](media/screenshots/screenshot_1.png)
+![Screenshot_2](media/screenshots/screenshot_2.png)
+
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
