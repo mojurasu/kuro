@@ -1,11 +1,16 @@
 # kuro
 
 ![Build](https://github.com/mojurasu/kuro/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/com.sitischu.kuro.svg)](https://plugins.jetbrains.com/plugin/com.sitischu.kuro)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/com.sitischu.kuro.svg)](https://plugins.jetbrains.com/plugin/com.sitischu.kuro)
 
 <!-- Plugin description -->
-Custom Plugin for random stuff I don't want to find external plugins for.
+Simple opiniated dark theme with a custom editor scheme.
+- Accent Color is Fuchsia because of personal preference.
+- Colors are taken from material or the tomorrow Night scheme
+- Default Font is Fira Code
+
+There might be some unthemed parts that default to Darcula feel free to report them as issues on the [GitHub repository](https://github.com/mojurasu/kuro)
 <!-- Plugin description end -->
 
 ---
