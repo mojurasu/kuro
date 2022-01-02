@@ -3,6 +3,11 @@
 # kuro Changelog
 
 
+## [0.2.0]
+### Added 
+- Add plugin icon
+### Changed
+- Fixed hard to read file colors
 
 ## [0.1.1]
 ### Changed
