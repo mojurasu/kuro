@@ -1,5 +1,5 @@
 # kuro
-![icon](src/main/resources/META-INF/pluginIcon.svg | =100x100)
+<img src="src/main/resources/META-INF/pluginIcon.svg" width="100" height="100"/>
 
 ![Build](https://github.com/mojurasu/kuro/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/com.sitischu.kuro.svg)](https://plugins.jetbrains.com/plugin/com.sitischu.kuro)
