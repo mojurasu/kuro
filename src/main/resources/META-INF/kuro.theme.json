@@ -115,7 +115,9 @@
         "installFillBackground": "#e52a57",
         "updateForeground": "#c9c9c9",
         "updateBackground": "#e52a57"
-      }
+      },
+      "lightSelectionBackground": "#722435",
+      "hoverBackground": "#454545"
     },
 
     "Popup": {

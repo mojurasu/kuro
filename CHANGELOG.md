@@ -4,6 +4,7 @@
 
 ## [Unreleased]
 ### Changed
+- Fix plugin page hover and selection color
 - Fix missing theming of startup loading popup
 
 ## [0.2.0]
