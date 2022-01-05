@@ -2,8 +2,8 @@
 <img src="src/main/resources/META-INF/pluginIcon.svg" width="100" height="100"/>
 
 ![Build](https://github.com/mojurasu/kuro/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/com.sitischu.kuro.svg)](https://plugins.jetbrains.com/plugin/com.sitischu.kuro)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/com.sitischu.kuro.svg)](https://plugins.jetbrains.com/plugin/com.sitischu.kuro)
+[![Version](https://img.shields.io/jetbrains/plugin/v/com.sitischu.kuro.svg)](https://plugins.jetbrains.com/plugin/18305-kuro)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/com.sitischu.kuro.svg)](https://plugins.jetbrains.com/plugin/18305-kuro)
 
 <!-- Plugin description -->
 Simple opiniated dark theme with a custom editor scheme.
