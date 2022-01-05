@@ -2,6 +2,9 @@
 
 # kuro Changelog
 
+## [Unreleased]
+### Changed
+- Fix missing theming of startup loading popup
 
 ## [0.2.0]
 ### Added 
@@ -16,5 +19,3 @@
 ## [0.1.0]
 ### Added
 - Editor and UI Theme
-
-## [Unreleased]

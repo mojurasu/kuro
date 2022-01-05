@@ -118,6 +118,18 @@
       }
     },
 
+    "Popup": {
+      "paintBorder": true,
+      "Header.activeBackground": "#202020",
+      "Header.inactiveBackground": "#202020",
+
+      "Advertiser": {
+        "background": "#202020",
+        "borderColor": "#202020",
+        "borderInsets": "3,8,5,0"
+      }
+    },
+
     "ProgressBar": {
       "trackColor": "#202020",
       "progressColor": "#e52a57",
