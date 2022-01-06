@@ -76,13 +76,5 @@ jobs:
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
 
-#          git checkout -b $BRANCH
           git commit -am "Changelog update - $VERSION"
-#          git push --set-upstream origin $BRANCH
           git push --set-upstream origin master
-
-#          gh pr create \
-#            --title "Changelog update - \`$VERSION\`" \
-#            --body "Current pull request contains patched \`CHANGELOG.md\` file for the \`$VERSION\` version." \
-#            --base master \
-#            --head $BRANCH
