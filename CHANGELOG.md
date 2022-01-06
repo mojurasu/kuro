@@ -3,6 +3,8 @@
 # kuro Changelog
 
 ## [Unreleased]
+### Fixed
+- Fixed disabled checkboxes being yellow
 
 ## [0.3.0]
 ### Changed

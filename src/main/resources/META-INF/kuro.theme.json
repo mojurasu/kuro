@@ -191,9 +191,9 @@
       "Checkbox.Focus.Wide.Dark": "#e52a57",
       "Checkbox.Focus.Thin.Default.Dark": "#e52a57",
       "Checkbox.Focus.Thin.Selected.Dark": "#e52a57",
-      "Checkbox.Background.Disabled.Dark": "#000000",
-      "Checkbox.Border.Disabled.Dark": "#AA6E28",
-      "Checkbox.Foreground.Disabled.Dark": "#AA6E28"
+      "Checkbox.Background.Disabled.Dark": "#202020",
+      "Checkbox.Border.Disabled.Dark": "#252525",
+      "Checkbox.Foreground.Disabled.Dark": "#5c5c5c"
     }
   }
 }
