@@ -3,14 +3,17 @@
 # kuro Changelog
 
 ## [Unreleased]
+
+## [0.3.0]
 ### Changed
 - Fix plugin page hover and selection color
 - Fix missing theming of startup loading popup
 - Add Console colors
 
 ## [0.2.0]
-### Added 
+### Added
 - Add plugin icon
+
 ### Changed
 - Fixed hard to read file colors
 
