@@ -7,6 +7,7 @@
 - Fixed disabled checkboxes being yellow
 ### Changed
 - Changed Selection Background in Editor
+- Changed breadcrumb colors
 
 ## [0.3.0]
 ### Changed
