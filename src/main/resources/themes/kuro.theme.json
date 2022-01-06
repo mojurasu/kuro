@@ -57,7 +57,7 @@
 
     "ComboBox": {
       "nonEditableBackground": "#202020",
-      "modifiedItemForeground": "#722435",
+      "modifiedItemForeground": "#e52a57",
 
       "ArrowButton": {
         "iconColor": "#ffffff",
