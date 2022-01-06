@@ -7,6 +7,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider path="/META-INF/kuro.theme.json" id="01d7f53b-3579-4386-a6d5-b89c6bfea0fa"/>
+        <themeProvider path="/themes/kuro.theme.json" id="01d7f53b-3579-4386-a6d5-b89c6bfea0fa"/>
     </extensions>
 </idea-plugin>
