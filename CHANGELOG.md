@@ -5,6 +5,8 @@
 ## [Unreleased]
 ### Fixed
 - Fixed disabled checkboxes being yellow
+### Changed
+- Changed Selection Background in Editor
 
 ## [0.3.0]
 ### Changed
