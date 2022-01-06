@@ -3,9 +3,12 @@
 # kuro Changelog
 
 ## [Unreleased]
+
+## [0.4.0]
 ### Fixed
 - Fixed disabled checkboxes being yellow
 - Fixed combo box modified item color being hard to see
+
 ### Changed
 - Changed Selection Background in Editor
 - Changed breadcrumb colors
