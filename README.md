@@ -6,7 +6,7 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/com.sitischu.kuro.svg)](https://plugins.jetbrains.com/plugin/18305-kuro)
 
 <!-- Plugin description -->
-Simple opiniated dark theme with a custom editor scheme.
+Simple opinionated dark theme with a custom editor scheme.
 - Accent Color is Fuchsia because of personal preference.
 - Colors are taken from material or the tomorrow Night scheme
 - Default Font is Fira Code

@@ -6,6 +6,7 @@
 ### Changed
 - Fix plugin page hover and selection color
 - Fix missing theming of startup loading popup
+- Add Console colors
 
 ## [0.2.0]
 ### Added 
