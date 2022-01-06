@@ -11,6 +11,7 @@
 - Changed breadcrumb colors
 - Changed text search result colors
 - Changed tab hover and selection background
+- Changed Hyperlink color
 
 ## [0.3.0]
 ### Changed

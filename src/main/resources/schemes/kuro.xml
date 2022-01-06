@@ -1095,5 +1095,13 @@
             </value>
         </option>
 
+        <option name="HYPERLINK_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="C3E88D" />
+                <option name="EFFECT_COLOR" value="C3E88D" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+
     </attributes>
 </scheme>
