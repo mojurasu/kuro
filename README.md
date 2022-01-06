@@ -1,9 +1,11 @@
-# kuro
-<img src="src/main/resources/META-INF/pluginIcon.svg" width="100" height="100"/>
+<p align="center">
+  <img src="src/main/resources/META-INF/pluginIcon.svg" width="256" height="256"/>
+</p>
 
-![Build](https://github.com/mojurasu/kuro/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/com.sitischu.kuro.svg)](https://plugins.jetbrains.com/plugin/18305-kuro)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/com.sitischu.kuro.svg)](https://plugins.jetbrains.com/plugin/18305-kuro)
+# kuro
+![Build](https://img.shields.io/github/workflow/status/mojurasu/kuro/Build?style=flat-square)
+[![Version](https://img.shields.io/jetbrains/plugin/v/com.sitischu.kuro.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/18305-kuro)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/com.sitischu.kuro.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/18305-kuro)
 
 <!-- Plugin description -->
 Simple opinionated dark theme with a custom editor scheme.
