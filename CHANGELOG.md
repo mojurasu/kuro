@@ -8,6 +8,7 @@
 ### Changed
 - Changed Selection Background in Editor
 - Changed breadcrumb colors
+- Changed text search result colors
 
 ## [0.3.0]
 ### Changed
