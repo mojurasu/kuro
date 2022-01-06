@@ -76,12 +76,17 @@
       "underlineColor": "#e52a57",
       "inactiveUnderlineColor": "#722435",
       "underlineHeight": 2,
-      "hoverBackground": "#454545"
+      "hoverBackground": "#353535",
+      "underlinedTabBackground": "#353535"
     },
 
     "Counter": {
       "background": "#e52a57",
       "foreground": "#c9c9c9"
+    },
+
+    "EditorTabs": {
+      "underlinedTabBackground": "#202020"
     },
 
     "FileColor": {
@@ -117,7 +122,7 @@
         "updateBackground": "#e52a57"
       },
       "lightSelectionBackground": "#722435",
-      "hoverBackground": "#454545"
+      "hoverBackground": "#353535"
     },
 
     "Popup": {

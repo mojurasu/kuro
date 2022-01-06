@@ -9,6 +9,7 @@
 - Changed Selection Background in Editor
 - Changed breadcrumb colors
 - Changed text search result colors
+- Changed tab hover and selection background
 
 ## [0.3.0]
 ### Changed
