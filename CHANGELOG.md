@@ -3,6 +3,8 @@
 # kuro Changelog
 
 ## [Unreleased]
+### Changed
+- Update for new IntelliJ platform version
 
 ## [0.4.0]
 ### Fixed
