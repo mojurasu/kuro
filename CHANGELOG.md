@@ -3,6 +3,10 @@
 # kuro Changelog
 
 ## [Unreleased]
+### Fixed
+- Changelog GitHub action
+
+## [0.5.1]
 ### Changed
 - Update for new IntelliJ platform version
 
