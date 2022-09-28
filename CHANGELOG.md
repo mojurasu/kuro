@@ -5,6 +5,9 @@
 ## [Unreleased]
 ### Fixed
 - Changelog GitHub action
+- Autocomplete window using Darcula colors
+- Notifications using Darcula colors
+- Red Divider showing up in Signature info
 
 ## [0.5.1]
 ### Changed
