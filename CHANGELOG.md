@@ -3,6 +3,8 @@
 # kuro Changelog
 
 ## [Unreleased]
+
+## [0.5.3]
 ### Fixed
 - Changelog GitHub action
 - Autocomplete window using Darcula colors
