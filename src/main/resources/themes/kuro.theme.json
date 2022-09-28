@@ -114,6 +114,10 @@
       "allocatedBackground": "#505050"
     },
 
+    "Notification": {
+      "background": "#252525"
+    },
+
     "Plugins": {
       "Button": {
         "installForeground": "#c9c9c9",
